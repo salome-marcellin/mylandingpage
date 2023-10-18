@@ -1,0 +1,12 @@
+.button-orange {
+  background-color: #FFBB5C;
+  padding: 10px 13px;
+  border-radius: 15px;
+  font-family: "Lora";
+  font-size: 22px;
+  color: #FFFFFF;
+}
+.button-orange:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
